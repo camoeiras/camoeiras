@@ -1,15 +1,9 @@
 ### Hi there 👋
 
-<!--
-**camoeiras/camoeiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a person who's not the guy who programs, who only makes machine learning models, who does exploratory analysis and knows the main libraries in Python. Not just that.
 
-Here are some ideas to get you started:
+I'm a professional who understands he's paid to solve problems.
 
-- 🔭 I’m currently working on ...Data Science and IA
-- 👯 I’m looking to collaborate on ...Blockchain
-- 🤔 I’m looking for help with ...Anyway
-- 💬 Ask me about ...Anything
-- 📫 How to reach me: ...https://www.linkedin.com/in/carlos-augusto-oeiras/
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...Serious problems with disorder
--->
+Who thinks in a systemic way, seeking to understand the best metrics, best and worst case scenario, define scope, structures problems, apply methodologies and works communication skills and storytelling.
+
+[bold] It's not just code. Understand this from an early age and never be merely cheap labor.
