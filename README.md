@@ -7,5 +7,3 @@
 ## Who thinks in a systemic way, seeking to understand the best metrics, best and worst case scenario, define scope, structures problems, apply methodologies and works communication skills and storytelling.
 
 ## It's not just code. Understand this from an early age and never be merely cheap labor.
-
-![datascience](https://user-images.githubusercontent.com/13452337/97591906-db714600-19de-11eb-9725-7edbc369f1ac.jpg)
